@@ -1,0 +1,32 @@
+.main-content{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid lightgray;
+    margin-right: 20px;
+    text-align: center;
+    
+    margin-left: 20px;
+    padding:10px
+}
+.main-content img{
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.course-content button{
+    height:30px;
+    width: 120px;
+    background-color:goldenrod;
+    color: white;
+    border-radius: 4px 4px;
+    cursor: pointer;
+}
+
+.course-content{
+text-align: center;
+justify-content:center;
+
+}
